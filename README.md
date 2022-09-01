@@ -1,4 +1,4 @@
-# goit-markup-hw-05
+# goit-markup-hw-06
 
     Не проходить валідацію рядок clip-path: inset(100%);
 
@@ -23,5 +23,3 @@
         The closest matching property name is “all” : currentColor
     433 Property “fill” doesn't exist.
         The closest matching property name is “all” : currentColor
-
-    header border
